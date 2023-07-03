@@ -149,3 +149,9 @@
         color: white;
         border-color: wheat;
     }
+
+    .openSourceLink {
+        position: absolute;
+        bottom: 20px;
+        right: 10px;
+    }
